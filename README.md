@@ -1,2 +1,2 @@
 # msbuild-sdk-sample
-Check MSBuild SDK for non-SDK based projects.
+Check [MSBuild SDK](https://github.com/Microsoft/MSBuildSdks/tree/master/src/CentralPackageVersions) for non-SDK based projects.
